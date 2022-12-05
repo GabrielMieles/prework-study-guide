@@ -2,7 +2,6 @@
 
 ## Study Guide Webpage
   
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - Motivation was to create a easy website that any user can use for helpful tips in regards to HTML, CSS, JavaScript, and Git.
 - I built this project as a helpful guide and to remind me of what I have learned in my bootcamp.
